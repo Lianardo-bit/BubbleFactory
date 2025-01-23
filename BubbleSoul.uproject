@@ -10,6 +10,21 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "FMODStudio",
+			"Enabled": false
+		},
+		{
+			"Name": "FMODStudioNiagara",
+			"Enabled": false
+		},
+		{
+			"Name": "FMOD",
+			"Enabled": false
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"../../../Downloads/fmodstudio20226ue5.2mac"
 	]
 }
